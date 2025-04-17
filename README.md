@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SimonaButaru
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning frontend Development with JavaScript with React
+- 👀 I’m an Automation QA Engineer
+
